@@ -17,7 +17,7 @@ extend-exclude = [
 ]
 
 extend-include = [
-  "ddusrveys",
+  "ddsurveys",
   "ddsurveys/**.py",
   "tests/**.py",
   "scripts/**.py",
